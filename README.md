@@ -1,12 +1,12 @@
 # Trabalho2
-Trabalho 2 - Técnicas de Programação
+Trabalho 2 - Tecnicas de Programaçao
 
-Para a execução das atividades do trabalho prático é precis seguir os passos:
+Para a execucao das atividades do trabalho prático e preciso seguir os passos:
 
--Passo 1: O arquivo que foi clonado no github é um arquivo.zip, então é preciso extrair os arquivos.
--Passo 2: Ao abrir a pasta extraída, terá dois arquivos que são o README.md e outro arquivo.zip nomeado "Trabalho2" que teram os códigos da atividade.
--Passo 2: Depois de extraídos, os códigos estaram com os nomes "Atividade1","Atividade2" e "Atividade3" (que na verdade é a atividade 4 da lista) e também a lista necessária para a atividade 1.
--Passo 4: Para executar cada atividade é preciso abrir ela em alguma IDL Python (ex: IDLE, Sublime Text).
-OBS: Para o Sublime Text, é preciso rodar o código no prompt de comando. Já na IDLE, o código é rodado indo em Run>Run Module.
+-Passo 1: O arquivo que foi clonado no github e um arquivo.zip, então e preciso extrair os arquivos.
+-Passo 2: Ao abrir a pasta extraida, tera dois arquivos que sao o README.md e outro arquivo.zip nomeado "Trabalho2" que teram os codigos da atividade.
+-Passo 2: Depois de extraidos, os codigos estaram com os nomes "Atividade1","Atividade2" e "Atividade3" (que na verdade e a atividade 4 da lista) e tambem a lista necessaria para a atividade 1.
+-Passo 4: Para executar cada atividade e preciso abrir ela em alguma IDL Python (ex: IDLE, Sublime Text).
+OBS: Para o Sublime Text, e preciso rodar o codigo no prompt de comando. Ja na IDLE, o codigo e rodado indo em Run>Run Module.
 -Passo 5: Os códigos seram executados como exemplificado na lista das atividades.
-OBS: Para a execução da Atividade3, é preciso extrair do código a classe (No caso, Carro). Ex.: "from Atividade3 import Carro).
+OBS: Para a execucao da Atividade3, e preciso extrair do codigo a classe (No caso, Carro). Ex.: "from Atividade3 import Carro) e exucutar na principal.
